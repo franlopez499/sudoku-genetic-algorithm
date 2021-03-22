@@ -1,0 +1,1408 @@
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 2 7 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 2 1 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 3 5 7 1 4 6 2 8 9 ]
+	[ 5 3 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 5 4 2 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 7 2 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 3 1 9 8 7 5 2 4 ]
+	[ 4 8 7 2 5 3 1 9 6 ]
+	[ 5 2 9 1 4 6 3 8 7 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 5 2 3 1 4 6 7 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 3 6 9 1 8 7 5 4 2 ]
+	[ 4 8 7 2 5 3 9 1 6 ]
+	[ 5 2 1 9 4 6 3 8 7 ]
+	[ 2 3 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 5 2 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 3 9 8 7 5 4 2 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 2 7 1 4 6 9 8 3 ]
+	[ 2 3 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 2 5 9 8 4 1 3 ]
+	[ 8 5 1 3 7 4 6 2 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 2 6 9 1 8 7 5 3 4 ]
+	[ 4 8 1 2 5 3 9 7 6 ]
+	[ 5 3 7 9 4 6 1 8 2 ]
+	[ 3 2 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 1078
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 218
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 2 5 3 1 4 6 7 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 2 6 9 1 8 7 5 3 4 ]
+	[ 4 8 7 2 5 3 9 1 6 ]
+	[ 5 3 1 9 4 6 2 8 7 ]
+	[ 3 5 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 5 4 2 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 2 7 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 2 1 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 3 5 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 5178
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 2 5 9 8 4 1 3 ]
+	[ 8 5 1 3 7 4 6 9 2 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 3 9 8 7 5 2 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 2 7 1 4 6 3 8 9 ]
+	[ 2 9 5 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 2 5 9 8 4 1 3 ]
+	[ 8 5 1 3 7 4 6 2 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 2 6 3 1 8 7 5 9 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 1 5 7 9 4 6 3 8 2 ]
+	[ 9 2 5 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 1 4 6 7 9 ]
+	[ 3 9 4 6 7 2 8 5 1 ]
+	[ 2 6 9 1 8 7 5 3 4 ]
+	[ 4 8 7 2 5 3 9 1 6 ]
+	[ 1 5 3 9 4 6 2 8 7 ]
+	[ 5 3 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 5 4 2 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 8375
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 3498
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 4495
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 10221
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 3
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 1 7 2 5 9 8 4 6 3 ]
+	[ 8 6 5 3 1 4 9 7 2 ]
+	[ 3 9 4 6 7 2 8 5 1 ]
+	[ 6 3 1 9 8 7 5 2 4 ]
+	[ 4 8 7 2 5 3 6 1 9 ]
+	[ 2 5 9 1 4 6 3 8 7 ]
+	[ 5 2 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 2 9 7 ]
+	[ 1 9 3 6 7 2 4 5 8 ]
+	[ 6 3 1 9 8 7 5 2 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 2 7 1 4 6 3 8 9 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 1 7 6 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 9 1 6 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 9 6 2 1 8 7 5 3 4 ]
+	[ 4 8 1 2 5 3 6 7 9 ]
+	[ 5 3 7 9 4 6 1 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 11411
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 8494
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 3301
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 2 7 ]
+	[ 1 9 3 6 7 2 4 5 8 ]
+	[ 6 2 9 1 8 7 5 3 4 ]
+	[ 4 8 1 2 5 3 6 7 9 ]
+	[ 5 3 7 9 4 6 1 8 2 ]
+	[ 3 5 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 5702
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 4
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 1 5 9 8 4 6 3 ]
+	[ 8 6 5 3 7 4 1 9 2 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 6 3 9 1 8 7 5 2 4 ]
+	[ 4 8 7 2 5 3 6 1 9 ]
+	[ 1 2 5 9 4 6 3 8 7 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 6418
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 8
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 3 2 1 5 7 4 9 6 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 9 6 7 3 8 4 5 1 2 ]
+	[ 4 8 5 2 1 3 6 7 9 ]
+	[ 5 2 1 9 4 6 3 8 7 ]
+	[ 2 5 9 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 2 7 ]
+	[ 3 9 1 6 7 2 8 5 4 ]
+	[ 6 2 3 1 8 7 5 4 9 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 1 5 7 9 4 6 3 8 2 ]
+	[ 5 3 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 4
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 5 2 3 7 4 1 9 6 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 2 6 3 9 8 1 5 7 4 ]
+	[ 4 8 7 2 5 3 6 1 9 ]
+	[ 1 9 5 7 4 6 3 8 2 ]
+	[ 5 2 9 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 4
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 2 5 9 8 4 1 3 ]
+	[ 8 5 7 3 1 4 6 2 9 ]
+	[ 3 9 1 6 7 2 8 5 4 ]
+	[ 1 6 4 9 8 7 5 3 2 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 2 3 1 4 6 9 8 7 ]
+	[ 2 3 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GARouletteWheelSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 4339
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 3
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 1 6 3 ]
+	[ 8 6 5 3 1 4 7 2 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 3 2 9 8 7 5 1 4 ]
+	[ 4 8 1 2 5 3 6 9 7 ]
+	[ 9 5 7 1 4 6 3 8 2 ]
+	[ 5 2 9 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 72
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 80
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 10391
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 5 2 3 1 4 6 7 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 3 6 1 9 8 7 5 4 2 ]
+	[ 4 8 7 2 5 3 9 1 6 ]
+	[ 5 2 9 1 4 6 3 8 7 ]
+	[ 2 3 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 4824
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 373
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 2 7 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 3 9 1 8 7 5 2 4 ]
+	[ 4 8 7 2 5 3 1 9 6 ]
+	[ 5 2 1 9 4 6 3 8 7 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 7 4 9 2 ]
+	[ 1 9 3 6 4 2 8 5 7 ]
+	[ 6 3 1 9 8 7 5 2 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 2 7 1 4 6 3 8 9 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 1991
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 52
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 11507
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 1014
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 1289
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 7 2 9 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 6 3 1 9 8 7 5 4 2 ]
+	[ 4 8 7 2 5 3 1 9 6 ]
+	[ 5 2 9 1 4 6 3 8 7 ]
+	[ 9 5 2 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 100
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 6590
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 5 2 3 1 4 9 7 6 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 3 6 1 9 8 7 5 4 2 ]
+	[ 4 8 9 2 5 3 6 1 7 ]
+	[ 5 2 7 1 4 6 3 8 9 ]
+	[ 2 3 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 50
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 1062
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.8
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 384
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 2 5 9 8 4 1 3 ]
+	[ 8 5 1 3 7 4 6 2 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 2 6 3 1 8 7 5 9 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 1 7 9 4 6 3 8 2 ]
+	[ 9 2 5 4 6 1 7 3 8 ]
+	[ 3 4 8 7 2 5 9 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 5 2 3 1 4 9 7 6 ]
+	[ 1 9 3 6 7 2 4 5 8 ]
+	[ 2 6 9 1 8 7 5 3 4 ]
+	[ 4 8 7 2 5 3 6 1 9 ]
+	[ 5 3 1 9 4 6 2 8 7 ]
+	[ 3 2 5 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 673
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.85
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 4690
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 104
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 146
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 67
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 2670
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.05
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 2 7 4 5 9 8 6 1 3 ]
+	[ 8 6 5 3 1 4 9 2 7 ]
+	[ 1 9 3 6 7 2 4 5 8 ]
+	[ 6 2 9 1 8 7 5 3 4 ]
+	[ 4 8 1 2 5 3 9 7 6 ]
+	[ 3 5 7 9 4 6 1 8 2 ]
+	[ 5 3 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.075
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 49
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.1
+	Archivo: Caso-A1.txt
+	Fitness: 2
+	Numero de generaciones: 12000
+	Estado: NO RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 4 5 9 8 1 2 3 ]
+	[ 8 2 5 3 1 4 9 7 6 ]
+	[ 1 9 3 6 7 2 8 5 4 ]
+	[ 2 6 1 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 6 1 7 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 3 5 2 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.95
+	Probabilidad de mutacion: 0.125
+	Archivo: Caso-A1.txt
+	Fitness: 0
+	Numero de generaciones: 5075
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 6 7 1 5 9 8 4 2 3 ]
+	[ 8 2 5 3 7 4 6 1 9 ]
+	[ 3 9 4 6 1 2 8 5 7 ]
+	[ 1 6 2 9 8 7 5 3 4 ]
+	[ 4 8 9 2 5 3 1 7 6 ]
+	[ 5 3 7 1 4 6 9 8 2 ]
+	[ 2 5 3 4 6 1 7 9 8 ]
+	[ 9 4 8 7 2 5 3 6 1 ]
+	[ 7 1 6 8 3 9 2 4 5 ]
+
+---------------------------------

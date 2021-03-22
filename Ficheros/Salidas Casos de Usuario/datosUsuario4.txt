@@ -1,0 +1,17 @@
+	Selector: GATournamentSelector
+	Tam de poblacion: 150
+	Probabilidad de cruce: 0.9
+	Probabilidad de mutacion: 0.075
+	Archivo: Usuario-4.txt
+	Fitness: 0
+	Numero de generaciones: 0
+	Estado: RESUELTO	
+
+Estado final del sudoku:
+
+	[ 1 2 4 3 ]
+	[ 3 4 2 1 ]
+	[ 2 1 3 4 ]
+	[ 4 3 1 2 ]
+
+---------------------------------
